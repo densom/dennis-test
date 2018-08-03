@@ -2,6 +2,7 @@ Making a change.
 
 dfadsf
 asdf
+- user 2 made a change
 asdf
 asd
 fsdaf
